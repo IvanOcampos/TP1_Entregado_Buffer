@@ -3,8 +3,7 @@
 **Algoritmos y Estructuras de Datos III (2026) — Grupo g_ts13**
 
 Integrantes:
-- Ocampos Acosta, Ivan David — 5796207 — TS
-- Bizzozzero Ortega, Edan Roberto — 5291269 — TS
+- Ocampos Acosta, Ivan David
 
 ## Decisiones de diseño
 
