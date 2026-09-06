@@ -2,8 +2,7 @@
 Trabajo Práctico 1 - Algoritmos y Estructuras de Datos III (2026)
 Grupo: g_ts13
 Integrantes:
-    - Ivan David Ocampos Acosta - 5796207 - TS
-    - Edan Roberto Bizzozzero Ortega - 5291269 - TS
+    - Ivan David Ocampos Acosta
 Declaración de Honor:
     Declaramos que el presente trabajo es de nuestra autoría, que fue realizado respetando el código de honor académico de la institución y que toda fuente externa consultada fue debidamente referenciada.
 */
